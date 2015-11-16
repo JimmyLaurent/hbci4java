@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hbci4java:jar">
+    <output-path>$PROJECT_DIR$/../MonMa/app/libs</output-path>
+    <root id="archive" name="hbci4java.jar">
+      <element id="module-output" name="thirdparty_cryptalgs4java" />
+      <element id="module-output" name="hbci4java" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>

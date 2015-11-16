@@ -9,9 +9,9 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.+'
 }
 
-sourceCompatibility = 1.5
-compileJava.options.encoding = 'ISO-8859-1'
-compileTestJava.options.encoding = 'ISO-8859-1'
+sourceCompatibility = 1.7
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
 
 version = '2.5.13-SNAPSHOT'
 
