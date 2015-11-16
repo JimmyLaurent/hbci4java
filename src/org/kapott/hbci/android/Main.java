@@ -19,7 +19,7 @@ import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
 /**
- * Created by alex on 16.11.2015.
+ * Konvertieren hbci-documents, dass auch android die lesen kann.
  */
 public class Main {
     public Main() {
